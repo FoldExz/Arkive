@@ -22,7 +22,7 @@ Repository untuk menyimpan materi kuliah, networking, programming, dan machine l
 | No | Tipe | Mata Kuliah | Jenis | SKS | Nilai |
 |----|-----------|--------------|-------|-----|--------|
 | 1 | MW | Agama | MW | 2 | AB |
-| 2 | MPK | Kreatifitas Mahasiswa 1 | MPK | 1 | Belum Isi Kuesioner |
+| 2 | MPK | Kreatifitas Mahasiswa 1 | MPK | 1 | AB |
 | 3 | MW | Matematika - 2 | MW | 2 | AB |
 | 4 | MW | Pemrograman Dasar 2 | MW | 2 | A |
 | 5 | MW | Praktikum Pemrograman Dasar 2 | MW | 1 | A |
@@ -39,7 +39,7 @@ Repository untuk menyimpan materi kuliah, networking, programming, dan machine l
 |----|-----------|--------------|-------|-----|--------|
 | 1 | MW | Bahasa Pemrograman | MW | 2 | A- |
 | 2 | MPP | Kewirausahaan | MPP | 2 | A- |
-| 3 | MPK | Kreatifitas Mahasiswa 2 | MPK | 1 | Belum Isi Kuesioner |
+| 3 | MPK | Kreatifitas Mahasiswa 2 | MPK | 1 | A- |
 | 4 | MW | Matematika 3 | MW | 2 | B+ |
 | 5 | MW | Organisasi Mesin dan Bahasa Assembly | MW | 2 | AB |
 | 6 | MW | Praktikum Bahasa Pemrograman | MW | 1 | A- |
@@ -57,7 +57,7 @@ Repository untuk menyimpan materi kuliah, networking, programming, dan machine l
 | 1 | MW | Alat Pengembangan Perangkat Lunak | MW | 2 | B+ |
 | 2 | MW | Desain dan Organisasi Komputer | MW | 2 | B+ |
 | 3 | MW | Jaringan Komputer | MW | 2 | A- |
-| 4 | MPK | Kreatifitas Mahasiswa 3 | MPK | 1 | Belum Isi Kuesioner |
+| 4 | MPK | Kreatifitas Mahasiswa 3 | MPK | 1 | A- |
 | 5 | MW | Pengolahan Sinyal dan Citra | MW | 2 | AB |
 | 6 | MW | Praktikum Alat Pengembangan Perangkat Lunak | MW | 1 | A- |
 | 7 | MW | Praktikum Desain dan Organisasi Komputer | MW | 1 | A- |
