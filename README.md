@@ -71,24 +71,24 @@ Repository untuk menyimpan materi kuliah, networking, programming, dan machine l
 
 | No | Tipe | Mata Kuliah | Jenis | SKS | Nilai |
 |----|-----------|--------------|-------|-----|--------|
-| 1 | MW | Bahasa Inggris Teknik | MW | 2 | ASI |
+| 1 | MW | Bahasa Inggris Teknik | MW | 2 | A |
 | 2 | MPI | English for Academic | MPI | 2 | - |
-| 3 | MPI | English for Developing Vocabulary | MPI | 2 | ASI |
-| 4 | MPI | Etika dan Profesionalisme | MPI | 2 | ASI |
+| 3 | MPI | English for Developing Vocabulary | MPI | 2 | AB |
+| 4 | MPI | Etika dan Profesionalisme | MPI | 2 | A- |
 | 5 | MPI | K3L dan Standar Internasional | MPI | 2 | A- |
 | 6 | MPI | Kewirausahaan | MPI | 2 | - |
 | 7 | MPK | Kreatifitas Mahasiswa 4 | MPK | 1 | - |
 | 8 | MPI | Manajemen Proyek | MPI | 2 | A |
-| 9 | MW | Praktikum Rekayasa Perangkat Lunak | MW | 1 | ASI |
-| 10 | MW | Praktikum Robotika dan Otomatisasi | MW | 1 | ASI |
-| 11 | MW | Praktikum Sistem Embedded | MW | 1 | ASI |
-| 12 | MW | Praktikum Sistem Operasi Waktu Nyata | MW | 1 | ASI |
-| 13 | MW | Praktikum Sistem Pengaturan Komputer | MW | 1 | ASI |
-| 14 | MW | Rekayasa Perangkat Lunak | MW | 2 | ASI |
-| 15 | MW | Robotika dan Otomatisasi | MW | 2 | ASI |
-| 16 | MW | Sistem Embedded | MW | 2 | ASI |
-| 17 | MW | Sistem Operasi Waktu Nyata | MW | 2 | ASI |
-| 18 | MW | Sistem Pengaturan Komputer | MW | 2 | ASI |
+| 9 | MW | Praktikum Rekayasa Perangkat Lunak | MW | 1 | B+ |
+| 10 | MW | Praktikum Robotika dan Otomatisasi | MW | 1 | B |
+| 11 | MW | Praktikum Sistem Embedded | MW | 1 | B |
+| 12 | MW | Praktikum Sistem Operasi Waktu Nyata | MW | 1 | AB |
+| 13 | MW | Praktikum Sistem Pengaturan Komputer | MW | 1 | B+ |
+| 14 | MW | Rekayasa Perangkat Lunak | MW | 2 | A |
+| 15 | MW | Robotika dan Otomatisasi | MW | 2 | B |
+| 16 | MW | Sistem Embedded | MW | 2 | B+ |
+| 17 | MW | Sistem Operasi Waktu Nyata | MW | 2 | AB |
+| 18 | MW | Sistem Pengaturan Komputer | MW | 2 | B |
 
 ### Semester 6
 
@@ -127,7 +127,7 @@ Repository untuk menyimpan materi kuliah, networking, programming, dan machine l
 
 | No | Tipe | Mata Kuliah | Jenis | SKS | Nilai |
 |----|-----------|--------------|-------|-----|--------|
-| 1 | MPP | Jaringan Komputer Lanjutan | MPP | 2 | ASI |
+| 1 | MPP | Jaringan Komputer Lanjutan | MPP | 2 | A |
 | 2 | MW | Proyek Akhir - 1 | MW | 3 | - |
 | 3 | MBKM | Riset Independen 3 | MBKM | 2 | - |
 | 4 | MPP | Sistem Embedded Lanjut | MPP | 2 | - |
