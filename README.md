@@ -143,3 +143,7 @@ Repository untuk menyimpan materi kuliah, networking, programming, dan machine l
 | 2 | MW | Bahasa Inggris Profesional | MW | 2 | - |
 | 3 | MW | Proyek Akhir - 2 | MW | 8 | - |
 | 4 | MBKM | Riset Independen 4 | MBKM | 2 | - |
+
+
+**Jumlah SKS**: 101 sks  
+**Indeks Prestasi (GPA)**: 3.57
