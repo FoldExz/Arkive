@@ -96,7 +96,7 @@ Repository untuk menyimpan materi kuliah, networking, programming, dan machine l
 |----|-----------|--------------|-------|-----|--------|
 | 1 | MPP | Interaksi Manusia dan Komputer | MPP | 2 | - |
 | 2 | MPP | Kerja Praktek 3 Bulan | MPP | 10 | - |
-| 3 | MPP | Kerja Praktek 6 Bulan | MPP | 20 | - |
+| 3 | MPP | Kerja Praktek 6 Bulan | MPP | 20 | A |
 | 4 | MBKM | MBKM: Asistensi Mengajar | MBKM | 20 | - |
 | 5 | MBKM | MBKM: Asistensi Mengajar | MBKM | 10 | - |
 | 6 | MBKM | MBKM: KKN Tematik | MBKM | 20 | - |
@@ -118,7 +118,7 @@ Repository untuk menyimpan materi kuliah, networking, programming, dan machine l
 | 22 | MW | Proposal Proyek Akhir | MW | 1 | - |
 | 23 | MBKM | Riset Independen 1 | MBKM | 2 | - |
 | 24 | MBKM | Riset Independen 2 | MBKM | 2 | - |
-| 25 | MPP | Topik Khusus Teknik Komputer | MPP | 2 | - |
+| 25 | MPP | Topik Khusus Teknik Komputer | MPP | 2 | A- |
 | 26 | MPP | Workshop Grafika Komputer | MPP | 2 | - |
 | 27 | MPP | Workshop Rekayasa Produk | MPP | 2 | - |
 | 28 | MPP | Workshop Sistem Digital | MPP | 2 | - |
