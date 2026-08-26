@@ -1,5 +1,6 @@
 # Arkive
 Repository untuk menyimpan materi kuliah, networking, programming, dan machine learning.
+Kurikulum 2022
 
 ### Semester 1
 
@@ -145,5 +146,5 @@ Repository untuk menyimpan materi kuliah, networking, programming, dan machine l
 | 4 | MBKM | Riset Independen 4 | MBKM | 2 | - |
 
 
-**Jumlah SKS**: 101 sks  
-**Indeks Prestasi (GPA)**: 3.57
+**Jumlah SKS**: 133 sks  
+**Indeks Prestasi (GPA)**: 3.65
