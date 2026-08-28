@@ -108,7 +108,7 @@ Repository untuk menyimpan materi kuliah, networking, programming, dan machine l
 
 ### Semester 8
 
-| No | Tipe | Mata Kuliah | Jenis | SKS | Nilai |
+| No | Kurikulum | Mata Kuliah | Jenis | SKS | Nilai |
 |----|-----------|--------------|-------|-----|--------|
 | 1 | 2026 | Bahasa Indonesia | MW | 2 | - |
 | 2 | 2026 | Bahasa Inggris Profesional | MW | 2 | - |
